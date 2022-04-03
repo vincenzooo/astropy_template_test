@@ -3,4 +3,4 @@ from __future__ import absolute_import
 
 
 def get_package_data():
-    return {'pyXsurf.example_subpkg': ['data/*']}
+    return {'pyXsurf.pySurf': ['data/*']}
